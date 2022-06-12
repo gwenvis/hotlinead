@@ -1,0 +1,50 @@
+﻿[
+    {
+        "name" : "DOOR_BREAK",
+        "sounds" : [
+            "sounds/doorbreak1"
+        ],
+        "volume" : 1.0
+    },
+    
+    {
+        "name" : "ENEMY_HURT",
+        "sounds" : [
+            "sounds/enemyhurt1"
+        ],
+        "volume" : 1.0
+    },
+    
+    {
+        "name" : "MENU_BUTTON",
+        "sounds" : [
+            "sounds/menubutton1"
+        ],
+        "volume" : 1.0
+    },
+    
+    {
+        "name" : "PLAYER_HURT",
+        "sounds" : [
+            "sounds/playerhurt1",
+            "sounds/playerhut2"
+        ],
+        "volume" : 1.0
+    },
+    
+    {
+        "name" : "POTION_IMPACT",
+        "sounds" : [
+            "sounds/potionimpact1"
+        ],
+        "volume" : 1.0
+    },
+    
+    {
+        "name" : "THROW",
+        "sounds" :[
+            "sounds/throw1"
+        ],
+        "volume" : 1.0
+    }
+]
